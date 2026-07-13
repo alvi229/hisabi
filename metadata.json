@@ -1,0 +1,6 @@
+{
+  "name": "Hisab Khata",
+  "description": "A modern, offline-first Income & Expense Tracker app with Material 3 UI, supporting English and Bangla language localization, charts, and PDF data export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
